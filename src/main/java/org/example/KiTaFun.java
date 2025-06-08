@@ -5,5 +5,5 @@ public class KiTaFun {
         System.out.println("200 g Mehl, 1 Becher Joghurt …");
         System.out.println("Oder lieber ein Witz?");
         System.out.println("Warum essen Programmierer so gern Kekse? – Weil sie Cookies akzeptieren müssen!");
-    }
+    } 
 }
